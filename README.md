@@ -143,18 +143,3 @@ activated_outputs = F.relu(outputs)
 ```
 
 ---
-
-## Requirements
-
-- Python 3.8 or later
-- PyTorch
-- Matplotlib
-
-Install the requirements:
-
-```bash
-pip install torch matplotlib
-```
-
----
-
