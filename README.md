@@ -13,8 +13,6 @@
 7. [Visualization of Tensors](#visualization-of-tensors)
 8. [Tensors on GPU](#tensors-on-gpu)
 9. [Neural Network Use Case](#neural-network-use-case)
-10. [Requirements](#requirements)
-11. [Usage](#usage)
 
 ---
 
